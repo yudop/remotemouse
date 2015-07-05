@@ -1,0 +1,1 @@
+The program in the phone send signals to control the mouse in the computer.  The program uses the orientation sensor to control the mouse, and the touch screen to control clicking and scrolling.
